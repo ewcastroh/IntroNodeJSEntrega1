@@ -1,0 +1,25 @@
+{
+  "name": "entrega1",
+  "version": "1.0.0",
+  "description": "Primera entrega del curso de Introducción a Node.JS mediante el desarrollo de un proyecto ágil (Cohorte 2)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewcastroh/IntroNodeJSEntrega1.git"
+  },
+  "keywords": [
+    "Node.JS"
+  ],
+  "author": "Eimer Wilfer Castro Hincapie ewcastroh10@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewcastroh/IntroNodeJSEntrega1/issues"
+  },
+  "homepage": "https://github.com/ewcastroh/IntroNodeJSEntrega1#readme",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}

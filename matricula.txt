@@ -1,0 +1,3 @@
+El estudiante Eimer
+Con cedula 12345
+Se ha matriculado en el curso llamado Iniciación deportiva con un id 5 que tiene una duración de 20 y un valor de 135000.
